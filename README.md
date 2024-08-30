@@ -7,7 +7,7 @@ In these 27 years of life, I can say that I've experienced a bit of everything. 
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/heitorkobayashi)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HeitorKobayashi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorkoba/)
-[![Letterboxd-E4405F_style=for-the-badge logo=letterboxd logoColor=black](https://github.com/user-attachments/assets/14cece17-4cc6-4060-86c4-d0fc827c055c)](https://letterboxd.com/heitorkobayashi/) 
+[![letterboxd_1](https://github.com/user-attachments/assets/ffd30c26-56b9-45cc-92da-bce96ab27051)](https://letterboxd.com/heitorkobayashi/) 
 
 ## About me
 📊 Intern in Data Engineering at Compass.Uol
