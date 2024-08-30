@@ -1,6 +1,6 @@
 # Hi there! Welcome to my profile 🪐
 
-In these 27 years of life, I can say that I've experienced a bit of everything. I carry with me the belief that a curious mind can never stop learning.
+In these 27 years of life, I can say that I've experienced a bit of everything. I carry with me the belief that a curious mind can never stop learning. The field of technology keeps me motivated to keep learning and improving myself.
 
 ### Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorkobayashi)
@@ -10,7 +10,7 @@ In these 27 years of life, I can say that I've experienced a bit of everything. 
 [![Letterboxd-E4405F_style=for-the-badge logo=letterboxd logoColor=black](https://github.com/user-attachments/assets/14cece17-4cc6-4060-86c4-d0fc827c055c)](https://letterboxd.com/heitorkobayashi/) 
 
 ## About me
-📊 Intern in Data engineering at Compass.Uol
+📊 Intern in Data Engineering at Compass.Uol
 
 🎞️ Cinematography and literature are my passion.
 
