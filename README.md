@@ -10,7 +10,7 @@ In these 27 years of life, I can say that I've experienced a bit of everything. 
 [![letterboxd_1](https://github.com/user-attachments/assets/ffd30c26-56b9-45cc-92da-bce96ab27051)](https://letterboxd.com/heitorkobayashi/) 
 
 ## About me
-📊 Intern in Data Engineering at Compass.Uol
+📊 Data Engineer Intern at Compass.Uol
 
 🎞️ Cinematography and literature are my passion.
 
